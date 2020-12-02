@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view />
+    <div>success</div>
     <service-worker-update-popup />
   </div>
 </template>
